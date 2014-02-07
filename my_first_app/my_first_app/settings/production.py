@@ -1,0 +1,1 @@
+from my_first_app.settings.production import *
